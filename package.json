@@ -1,0 +1,14 @@
+{
+  "name": "auth",
+  "module": "/",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^1.0.1"
+  },
+  "scripts": {
+    "start": "bun run index.ts"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
